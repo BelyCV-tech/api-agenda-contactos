@@ -1,0 +1,23 @@
+{
+  "name": "api-agenda-contactos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BelyCV-tech/api-agenda-contactos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BelyCV-tech/api-agenda-contactos/issues"
+  },
+  "homepage": "https://github.com/BelyCV-tech/api-agenda-contactos#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
